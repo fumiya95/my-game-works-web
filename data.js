@@ -43,7 +43,7 @@ const DATA = {
       "genres": ["Horror", "Co-op"],
       "recommend": true,
       "price": 1200,
-      "cover": "images/repomain.jpg",
+      "cover": "images/repomain.JPG",
       "images": ["images/repoplay.jpg"],
       "steamUrl": "https://store.steampowered.com/app/3241660/REPO/",
       "review": "仲間と協力して任務を遂行するタイプの協力型ホラーゲームです。ルールがシンプルで分かりやすく、Lethal Companyよりも難易度がやや優しめに感じました。パーティーゲームのような要素も強く、人数が多いほど盛り上がること間違いなしです！"
@@ -127,7 +127,7 @@ const DATA = {
       "genres": ["Simulation", "Life"],
       "recommend": true,
       "price": 0,
-      "cover": "images/sim4main.JPG",
+      "cover": "images/sim4main.jpg",
       "images": ["images/simplay.jpg"],
       "steamUrl": "https://store.steampowered.com/app/1222670/The_Sims_4/",
       "review": "自分だけのキャラクターを作り、家を建て、仕事や恋愛、生活を自由に楽しめるリアルなお人形遊びのようなゲームです。想像力次第で何時間でも遊べる奥深さがあり、現実とは違う人生を体験したい人にぴったりです。"
